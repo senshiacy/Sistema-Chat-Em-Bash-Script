@@ -1,8 +1,4 @@
 #!/bin/bash
-# AUTOR:
-# Nome: Nathália Yukimi Uchiyama Tsuno
-# NUSP: 14600541
-# Email: uchiyama@usp.br
 #
 # DESCRIÇÃO:
 # Este Exercício de Programação se trata de um sistema de chat, interterminais, implementado
